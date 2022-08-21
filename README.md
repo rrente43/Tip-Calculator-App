@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/rrente43/iOS-Pre-work-Tip-Calculator-App/blob/main/Kapture%202022-08-21%20at%2013.56.31.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
